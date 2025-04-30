@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/guill/Documents/GitHub/mlops-bike-prediction-pipeline/notebooks/mlruns/0/ee15b4a09a8840d1b53b5bb6a7410fea/artifacts
+end_time: 1745971746105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee15b4a09a8840d1b53b5bb6a7410fea
+run_name: clumsy-snake-149
+run_uuid: ee15b4a09a8840d1b53b5bb6a7410fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745971740355
+status: 3
+tags: []
+user_id: guill

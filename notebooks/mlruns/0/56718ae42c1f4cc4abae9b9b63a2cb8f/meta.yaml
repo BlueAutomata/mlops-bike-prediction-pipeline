@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/guill/Documents/GitHub/mlops-bike-prediction-pipeline/notebooks/mlruns/0/56718ae42c1f4cc4abae9b9b63a2cb8f/artifacts
+end_time: 1745971750278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56718ae42c1f4cc4abae9b9b63a2cb8f
+run_name: wistful-cat-490
+run_uuid: 56718ae42c1f4cc4abae9b9b63a2cb8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745971746206
+status: 3
+tags: []
+user_id: guill

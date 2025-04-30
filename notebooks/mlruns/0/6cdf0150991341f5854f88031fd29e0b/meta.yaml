@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/guill/Documents/GitHub/mlops-bike-prediction-pipeline/notebooks/mlruns/0/6cdf0150991341f5854f88031fd29e0b/artifacts
+end_time: 1745971746174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cdf0150991341f5854f88031fd29e0b
+run_name: shivering-shrike-980
+run_uuid: 6cdf0150991341f5854f88031fd29e0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745971746144
+status: 3
+tags: []
+user_id: guill

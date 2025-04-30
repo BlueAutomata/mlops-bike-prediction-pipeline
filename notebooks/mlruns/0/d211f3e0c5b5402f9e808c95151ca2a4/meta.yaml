@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/guill/Documents/GitHub/mlops-bike-prediction-pipeline/notebooks/mlruns/0/d211f3e0c5b5402f9e808c95151ca2a4/artifacts
+end_time: 1745971735436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d211f3e0c5b5402f9e808c95151ca2a4
+run_name: enchanting-mink-792
+run_uuid: d211f3e0c5b5402f9e808c95151ca2a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745971729829
+status: 3
+tags: []
+user_id: guill

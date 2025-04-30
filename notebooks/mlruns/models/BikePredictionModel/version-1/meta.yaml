@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745971754285
+current_stage: Production
+description: null
+last_updated_timestamp: 1745971754344
+name: BikePredictionModel
+run_id: null
+run_link: null
+source: runs/1753d1fa5f534483be42249129894d8f/bike_prediction_model
+status: READY
+status_message: null
+storage_location: runs/1753d1fa5f534483be42249129894d8f/bike_prediction_model
+user_id: null
+version: 1
